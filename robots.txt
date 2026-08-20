@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.justfix.co.za/sitemap.xml
+Sitemap: https://www.justfixautoelectrix.co.za/sitemap.xml
